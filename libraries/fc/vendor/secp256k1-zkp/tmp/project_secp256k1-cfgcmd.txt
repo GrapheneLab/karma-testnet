@@ -1,0 +1,1 @@
+cmd='/home/igor/current_work/graphenelab_karma/libraries/fc/vendor/secp256k1-zkp/configure;--prefix=/home/igor/current_work/graphenelab_karma/libraries/fc/vendor/secp256k1-zkp;--with-bignum=no'
