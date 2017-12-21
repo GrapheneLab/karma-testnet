@@ -18,17 +18,6 @@ autom4te.cache
 *.a
 *.sw*
 
-*.cmake
-CMakeCache.txt
-CMakeFiles
-Makefile
-compile_commands.json
-moc_*
-*.moc
-
-#genesis.json
-hardfork.hpp
-
 doxygen
 
 wallet.json
